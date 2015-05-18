@@ -20,7 +20,7 @@ namespace TRChat
                     Children = {
                         new Label {
                             XAlign = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
+                            Text = "teste"
                         }
                     }
                 }
